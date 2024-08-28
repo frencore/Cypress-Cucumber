@@ -23,7 +23,7 @@
 > [!NOTE]
 > - Despues de hacer la instalacion, hay que hacer la configuracion. Primero hay que ejecutar el siguiente comando y hacer el paso a paso: ` .\node_modules\.bin\cypress open`
 >
-> - Configurar archivo `cypress.config.ts` y agregar configuracion base segun [configuration cypress docs][def2]
+> - Se creara el archivo `cypress.config.ts` con la configuracion base segun [configuration cypress docs][def2], luego hacer al cambio segun manual [cucumber-in-cypress-a-step-by-step-guide][def]
 
 [def]: https://filiphric.com/cucumber-in-cypress-a-step-by-step-guide
 [def2]: https://docs.cypress.io/guides/references/configuration#Intelligent-Code-Completion
