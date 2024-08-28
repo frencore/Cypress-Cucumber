@@ -19,5 +19,11 @@ export default defineConfig({
       );
       return config;
     },
+    env: {
+      omitFiltered: true,
+      filterSpecs: true
+    },
+    fixturesFolder: false,
+    baseUrl: 'http://localhost:3000'
   },
 });
