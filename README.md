@@ -1,6 +1,7 @@
 # Cypress-Cucumber
 
-> [!NOTE] > **Configuracion del proyecto:**  
+> [!NOTE] 
+> **Configuracion del proyecto:**  
 > [cucumber-in-cypress-a-step-by-step-guide][def]
 >
 > - Instalar typeScript `npm install typescript --save-dev` [cypress typescript-support][def3]
