@@ -1,9 +1,4 @@
-import {
-  When,
-  Then,
-  Given,
-  DataTable,
-} from "@badeball/cypress-cucumber-preprocessor";
+import { When, DataTable } from "@badeball/cypress-cucumber-preprocessor";
 
 When("I create cards with names", (table: DataTable) => {
   cy.get('[data-cy="new-card"]').click();
