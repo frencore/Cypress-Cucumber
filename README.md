@@ -24,6 +24,12 @@
 > [!NOTE]
 > - Se creara el archivo `cypress.config.ts` con la configuracion base segun [configuration cypress docs][def2], luego hacer al cambio segun manual [cucumber-in-cypress-a-step-by-step-guide][def]
 
+> [!IMPORTANT]  
+> Para ejecutar pruebas con una etiqueta específica, utilice el siguiente comando:     
+`npx cypress run --env tags="@smoke" `
+
+
+
 [def]: https://filiphric.com/cucumber-in-cypress-a-step-by-step-guide
 [def2]: https://docs.cypress.io/guides/references/configuration#Intelligent-Code-Completion
 [def3]: https://docs.cypress.io/guides/tooling/typescript-support
