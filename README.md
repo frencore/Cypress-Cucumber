@@ -22,8 +22,6 @@
 > Referencia [typescript-support][def4]  
 
 > [!NOTE]
-
->
 > - Se creara el archivo `cypress.config.ts` con la configuracion base segun [configuration cypress docs][def2], luego hacer al cambio segun manual [cucumber-in-cypress-a-step-by-step-guide][def]
 
 [def]: https://filiphric.com/cucumber-in-cypress-a-step-by-step-guide
