@@ -18,7 +18,9 @@
 }
 
 ```
-> Referencia [typescript-support][def4]
+> Referencia [typescript-support][def4]  
+
+> [!NOTE]
 > - Despues de hacer la instalacion, hay que hacer la configuracion. Primero hay que ejecutar el siguiente comando y hacer el paso a paso: ` .\node_modules\.bin\cypress open`
 >
 > - Configurar archivo `cypress.config.ts` y agregar configuracion base segun [configuration cypress docs][def2]
