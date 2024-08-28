@@ -1,8 +1,13 @@
 # Cypress-Cucumber
 
-### Url para configuracion de proyecto
+### Configuracion del proyecto
 
-[cucumber-in-cypress-a-step-by-step-guide] (https://filiphric.com/cucumber-in-cypress-a-step-by-step-guide)
+ [cucumber-in-cypress-a-step-by-step-guide][def]
 
-> Para hacer la configuracion, primero hay que ejecutar el siguiente comando y hacer el paso a paso: 
+> [!NOTE] 
+> Despues de hacer la instalacion, hay que hacer la configuracion. Primero hay que ejecutar el siguiente comando y hacer el paso a paso: 
+
 ` .\node_modules\.bin\cypress open`
+
+
+[def]: https://filiphric.com/cucumber-in-cypress-a-step-by-step-guide
